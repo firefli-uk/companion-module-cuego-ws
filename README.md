@@ -1,3 +1,3 @@
-# companion-module-generic-websocket
+# companion-module-cuego-ws
 
 See HELP.md and LICENSE

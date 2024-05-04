@@ -1,15 +1,15 @@
 {
-	"id": "generic-websocket",
-	"name": "generic-websocket",
-	"shortname": "websocket",
-	"description": "generic-websocket",
+	"id": "cuego-live",
+	"name": "CueGO",
+	"shortname": "CueGo",
+	"description": "Live controller for a CueGO.live workspace.",
 	"version": "0.0.0",
 	"license": "MIT",
-	"repository": "git+https://github.com/bitfocus/companion-module-generic-websocket.git",
-	"bugs": "https://github.com/bitfocus/companion-module-generic-websocket/issues",
+	"repository": "git+https://github.com/bitfocus/companion-module-cuego-ws.git",
+	"bugs": "https://github.com/bitfocus/companion-module-cuego-ws/issues",
 	"maintainers": [
 		{
-			"name": "Krzysztof Pyrkosz"
+			"name": "Matt Mills"
 		}
 	],
 	"legacyIds": [],
@@ -19,7 +19,7 @@
 		"apiVersion": "0.0.0",
 		"entrypoint": "../main.js"
 	},
-	"manufacturer": "Generic",
-	"products": ["WebSocket"],
-	"keywords": ["Protocol", "Generic"]
+	"manufacturer": "FireFli",
+	"products": ["CueGO.live"],
+	"keywords": ["CueGO"]
 }
